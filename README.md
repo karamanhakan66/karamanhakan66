@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=32&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Scientist;AI+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
-<a href="#"><img width="800px" src="https://raw.githubusercontent.com/karamanhakan66/karamanhakan66/main/assets/header.svg"/></a>
 
 </div>
 
